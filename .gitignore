@@ -1,0 +1,15 @@
+# Cordova Build and Release Folders
+cordova/
+build/
+
+# sass cache folder
+resources/sass/.sass-cache/
+**/.sass-cache/*
+
+# Library
+#touch/
+
+.DS_Store
+
+#sencha backup folder
+**/.sencha_backup/*
