@@ -1,7 +1,7 @@
 Ext.define('LoginApp.view.NewBookingView',{
 	extend: 'Ext.Container',
 	alias: "widget.newbookingview",
-	requires:['Ext.form.*','Ext.Container.*','Ext.Label','Ext.Img','LoginApp.ux.field.DateTimePicker','LoginApp.view.AddressBookView','Ext.scroll.*'],
+	requires:['Ext.form.*','Ext.Container','Ext.Label','Ext.Img','LoginApp.ux.field.DateTimePicker','LoginApp.view.AddressBookView','Ext.scroll.*'],
 	config:{
 		border:	10,
         layout: 'fit',
